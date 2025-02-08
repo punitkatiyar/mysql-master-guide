@@ -22,6 +22,7 @@ mysqli_connect($hostName,$userName,$userPass,$dbName);
 # Insert Query
 
 ```
-INSERT INTO `classRoom` (`id`, `firstName`, `lastName`, `mobile`, `email`, `course`) VALUES (NULL, 'Punit', 'Katiyar', '0000000000', 'punit@techunitbook.com', 'PHP Full stack');
+INSERT INTO `classRoom` (`id`, `firstName`, `lastName`, `mobile`, `email`, `course`)
+VALUES (NULL, 'Punit', 'Katiyar', '0000000000', 'punit@techunitbook.com', 'PHP Full stack');
 ```
 
