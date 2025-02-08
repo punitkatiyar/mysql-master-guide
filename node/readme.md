@@ -1,5 +1,11 @@
 # how to setup mysql with node
 
+> https://www.npmjs.com/package/mysql2
+
+> https://www.npmjs.com/package/dotenv
+
+> https://www.npmjs.com/package/express
+
 ```
 const mysql = require('mysql2');
 const dotenv = require('dotenv');
