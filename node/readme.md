@@ -1,10 +1,6 @@
 # how to setup mysql with node
 
-> https://www.npmjs.com/package/mysql2
-
-> https://www.npmjs.com/package/dotenv
-
-> https://www.npmjs.com/package/express
+## Create Connection
 
 ```
 const mysql = require('mysql2');
@@ -32,5 +28,8 @@ module.exports = connection;
 
 
 
-Paclage List
+> https://www.npmjs.com/package/mysql2
 
+> https://www.npmjs.com/package/dotenv
+
+> https://www.npmjs.com/package/express
